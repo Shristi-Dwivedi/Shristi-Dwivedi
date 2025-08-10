@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Shristi+👋;Full+Stack+Developer;IoT+%26+ESP32+Projects;Lifelong+Learner+🚀" alt="Typing SVG" />
+</p>
 
-<!--
-**Shristi-Dwivedi/Shristi-Dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUserName&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" /> 
+</p>
 
-Here are some ideas to get you started:
+<!-- About Me -->
+<h2 align="center">💫 About Me</h2>
+<p align="center">
+  💻 Passionate about MERN Stack & IoT <br>
+  🌱 Currently pursuing MCA & building projects <br>
+  🎯 Goal: Create tech that solves real-world problems <br>
+  📫 Reach me at: <a href="mailto:youremail@example.com">shristidwivedi204@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech Stack -->
+<h2 align="center">🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,c#,git,linux" />
+</p>
+
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUserName&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 My Contribution Snake</h2>
+<p align="center">
+  <img src="https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- Footer -->
+<p align="center">✨ Thank you for visiting my profile ✨</p>
