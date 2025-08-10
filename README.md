@@ -26,11 +26,11 @@
 <!-- Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shristi-Dwivedi&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi-Dwivedi&layout=compact&theme=tokyonight" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUserName&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shristi-Dwivedi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <!-- Snake Animation -->
