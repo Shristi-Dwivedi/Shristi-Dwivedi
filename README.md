@@ -33,11 +33,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shristi-Dwivedi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 My Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 <!-- Footer -->
 <p align="center">✨ Thank you for visiting my profile ✨</p>
